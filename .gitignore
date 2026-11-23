@@ -1,0 +1,19 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Obsidian workspace settings
+.obsidian/
+
+# Generated local study state
+STUDY_PLAN.md
+PLAN_ESTUDIO.md
+CURRICULUM.md
+CURRICULO.md
